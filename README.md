@@ -3,7 +3,7 @@
 Deployed using Netlify at https://sharemean01ku.netlify.app/
 
 Frontend:
-  ReactJS, Tailwind CSS.\
+  ReactJS, Tailwind CSS\
 Backend:
   Sanity Studio, Google Identity Service
   
