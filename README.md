@@ -9,7 +9,7 @@ Backend:
   
 ![image](https://user-images.githubusercontent.com/53654327/197857277-8d876108-a810-41f1-b15e-b20ab56613a2.png)
  
-## Add required keys in .env to run locally. 
+### Add required keys in .env to run locally. 
 
 ## Available Scripts
 
