@@ -3,9 +3,9 @@
 Deployed using Netlify at https://sharemean01ku.netlify.app/
 
 Frontend:
-  ReactJS, Tailwind CSS
+  ReactJS, Tailwind CSS.\
 Backend:
-  Sanity Studio, Google Ideentity Service
+  Sanity Studio, Google Identity Service
   
 ## Add required keys in .env to run locally. 
 
